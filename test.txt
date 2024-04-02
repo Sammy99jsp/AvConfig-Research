@@ -1,0 +1,1 @@
+{"items":{"":2000000,"apple":17,"carrot":2,"parsnip":5,"potato":2},"price":2.02}
